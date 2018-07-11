@@ -34,7 +34,7 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="Back End"
-                description="Advance experience in Node/Express and managing relational databases and enjoy working with all sorts of different data types."
+                description="Advance experience in Node/Express and relational database management and enjoy working with all data types."
                 icon={Code}
                 iconColor="info"
                 vertical
@@ -43,7 +43,7 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="ES8 Ready"
-                description="I am able to deploy web and mobile applications using the latest ES8 standards, offering abundant creativity with in area of expertise."
+                description="I am able to deploy web and mobile applications using the latest ES8 standards, offering abundant creativity within this area of expertise."
                 icon={VerifiedUser}
                 iconColor="success"
                 vertical
@@ -52,7 +52,7 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="Front End"
-                description="I love working with React on front end projects, and using Redux, React-Router, Material-UI, react-strap, AntD & JSS really compliment my work."
+                description="I love truly enjoy working on ReactJS projects. I have experience using Redux, React-Router, Material-UI, react-strap, AntD & JSS really compliment my work."
                 icon={Web}
                 iconColor="danger"
                 vertical

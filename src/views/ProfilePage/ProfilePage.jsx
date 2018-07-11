@@ -61,7 +61,7 @@ class ProfilePage extends React.Component {
                     <div className={classes.name}>
                       <h3 className={classes.title}>Mario Martin</h3>
                       <h6>
-                        ReactJS/NodeJS, Full Stack Web Developer 
+                        Full Stack Web Developer 
                       </h6>
                       <IconButton
                         color="transparent"

@@ -22,10 +22,10 @@ class ProductSection extends React.Component {
           <GridItem xs={12} sm={12} md={8}>
             <h2 className={classes.title}>#LetsTalkDev</h2>
             <h5 className={classes.description}>
-              I'm a Javascript developer with tons of experience using 
-              the latest standards.  I've contributed to a few open source 
-              projects on npm and have worked on many projects small and 
-              large, offering flawless development logic with my stack.
+              I am currently working on projects that focus on frontend and backend development. My passion
+              is developing mobile apps and web applications for companies using a combination of the latest
+              javascript frameworks including: Node, postgreSQL, React, React Native, Redux, Electron, HTML5, CSS3, AJAX,
+              JSON, XML, REST, GIT.
             </h5>
           </GridItem>
         </GridContainer>
@@ -34,7 +34,7 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="Back End"
-                description="Advance experience in Node/Express and managing relational databases and enjoy working with all sorts of different data types like JSON & XML."
+                description="Advance experience in Node/Express and managing relational databases and enjoy working with all sorts of different data types."
                 icon={Code}
                 iconColor="info"
                 vertical
@@ -43,7 +43,7 @@ class ProductSection extends React.Component {
             <GridItem xs={12} sm={12} md={4}>
               <InfoArea
                 title="ES8 Ready"
-                description="I am able to deploy web and mobile applications using the latest ES6, ES7 & ES8 standards, offering abundant creativity with this area of expertise."
+                description="I am able to deploy web and mobile applications using the latest ES8 standards, offering abundant creativity with in area of expertise."
                 icon={VerifiedUser}
                 iconColor="success"
                 vertical
